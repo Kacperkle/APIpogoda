@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 public class HelloApplication extends Application {
 
-    private static final String API_KEY = "3bf4334cd21c77a55ac7eb3ce601961c";
+    private static final String API_KEY = "ab4d32a7264bccfb28b8fc1b11a9bc62";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&lang=pl&units=metric";
 
     private ImageView weatherIcon;
